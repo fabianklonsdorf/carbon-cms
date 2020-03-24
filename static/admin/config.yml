@@ -1,5 +1,5 @@
 backend:
-  name: carbon-cms
+  name: github
   repo: fabianklonsdorf/carbon-cms
 
 
