@@ -18,11 +18,11 @@ collections:
       - { name: body, label: Body, widget: markdown }
   - label: "Navigation"
     name: "navigation"
+    extension: "yaml"
+    format: "yaml"
     files:
       - label: "Left Navigation"
         name: "left-navigation"
-        file: "src/data/nav-items.yml"
-        extension: "yaml"
-        format: "yaml"
+        file: "src/data/nav-items.yaml"
         fields:
           - { name: body, label: Body, widget: markdown }
