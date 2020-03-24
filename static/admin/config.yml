@@ -21,7 +21,7 @@ collections:
     files:
       - label: "Left Navigation"
         name: "left-navigation"
-        file: "src/data/nav-items.yaml"
+        file: "src/data/nav-items.yml"
         extension: "yaml"
         format: "yaml"
         fields:
