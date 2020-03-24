@@ -25,4 +25,4 @@ collections:
         name: "left-navigation"
         file: "src/data/nav-items-1.yaml"
         fields:
-          - { name: body, label: Body, widget: markdown }
+          - { label: Body, widget: markdown }
