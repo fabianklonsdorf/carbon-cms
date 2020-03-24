@@ -6,7 +6,7 @@ title: IBM iX DACH
 ## Das ist IBM iX DACH
 
 <InlineNotification>
-**Lorem ipsum:** dolor sit amet, [consectetur adipiscing](/components/InlineNotification) elit. Curabitur ac odio arcu. Vestibulum egestas eleifend porttitor. Quisque malesuada pulvinar pellentesque. Nunc dictum odio eu enim venenatis fringilla. Nunc finibus enim dui, a tempus quam commodo vitae. Donec non eros gravida dolor porta suscipit non vel quam.
+Curabitur ac odio arcu. Vestibulum egestas eleifend porttitor. Quisque malesuada pulvinar pellentesque. Nunc dictum odio eu enim venenatis fringilla. Nunc finibus enim dui, a tempus quam commodo vitae. Donec non eros gravida dolor porta suscipit non vel quam.
 </InlineNotification>
 
 <Accordion>
@@ -15,7 +15,7 @@ title: IBM iX DACH
   <AccordionItem title="Title 3">Content Section</AccordionItem>
 </Accordion>
 
-![](/images/blue-stripes.png)
+![](../../images/blue-stripes.png)
 
 Colons can be used to align columns.
 
