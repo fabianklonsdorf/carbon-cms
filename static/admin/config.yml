@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: carbon-cms
+  repo: fabianklonsdorf/carbon-cms
+
 
 media_folder: static/assets
 public_folder: /assets
