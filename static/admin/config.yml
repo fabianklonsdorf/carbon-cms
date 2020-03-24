@@ -19,7 +19,7 @@ collections:
   - label: "Navigation"
     name: "navigation"
     extension: "yaml"
-    format: frontmatter-yaml
+    format: "yaml"
     files:
       - label: "Left Navigation"
         name: "left-navigation"
