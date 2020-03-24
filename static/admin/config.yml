@@ -21,6 +21,6 @@ collections:
     files:
       - label: "Left Navigation"
         name: "left-navigation"
-        file: "src/data/nav-items.yml"
+        file: "src/data/nav-items.yaml"
         fields:
           - { name: body, label: Body, widget: markdown }
