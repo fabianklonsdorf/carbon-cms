@@ -16,3 +16,11 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+  - label: "Navigation"
+    name: "navigation"
+    files:
+      - label: "Left Navigation"
+        name: "left-navigation"
+        file: "src/data/nav-items.yaml"
+        fields:
+          - { name: body, label: Body, widget: markdown }
