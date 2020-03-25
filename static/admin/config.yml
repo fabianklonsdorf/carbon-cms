@@ -9,8 +9,8 @@ public_folder: /images
 collections:
   - name: blog
     label: Blog
-    extension: mdx
-    format: frontmatter
+    extension: 'mdx'
+    format: 'frontmatter'
     folder: src/pages/blog
     create: true
     fields:
@@ -20,8 +20,8 @@ collections:
       - { name: body, label: Body, widget: markdown }
   - label: "Navigation"
     name: "navigation"
-    extension: yaml
-    format: yaml
+    extension: 'yaml'
+    format: 'yaml'
     files:
       - label: "Left Navigation"
         name: "left-navigation"
