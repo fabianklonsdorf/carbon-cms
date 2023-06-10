@@ -13,7 +13,7 @@
     "build:analyze": "ANALYZE=true yarn build"
   },
   "dependencies": {
-    "gatsby": "^2.19.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-netlify-cms": "^4.2.1",
     "gatsby-theme-carbon": "^1.22.1",
     "netlify-cms-app": "^2.11.32",
